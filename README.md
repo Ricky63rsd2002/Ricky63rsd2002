@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AUTOMATE AND COMPUTE THE DETECTION OF POSSIBLE VULNERABILITY TO DEPRESSION**
 
-- 🌱 I’m currently learning **ML, Data science and analytics, Web Development, Unity**
+- 🌱 I’m currently learning **Python, ML, Data science and analytics, Web Development, Unity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ricky63rsd2002](https://github.com/Ricky63rsd2002)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/souvik-dutta-rsd632002**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/4whpusr943](https://flowcv.com/resume/4whpusr943)
+- 📄 Know about my experiences [[https://flowcv.com/resume/4whpusr943](https://flowcv.com/resume/4whpusr943)](https://flowcv.com/resume/4whpusr943)
 
 - ⚡ Hobbies **Playing Cricket • Gaming • Playing Football • Cooking**
 
