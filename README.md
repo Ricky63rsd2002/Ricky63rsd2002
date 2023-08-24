@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/souvik-dutta-rsd632002**
 
-- 📄 Know about my experiences [[https://flowcv.com/resume/4whpusr943](https://flowcv.com/resume/4whpusr943)](https://flowcv.com/resume/4whpusr943)
+- 📄 Know about my experiences [[https://flowcv.com/resume/4whpusr943](https://flowcv.com/resume/4whpusr943)]
 
 - ⚡ Hobbies **Playing Cricket • Gaming • Playing Football • Cooking**
 
